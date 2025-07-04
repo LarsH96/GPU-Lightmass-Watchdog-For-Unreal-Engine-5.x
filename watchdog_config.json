@@ -1,0 +1,35 @@
+{
+  "unreal_path": "D:/Program Files/Epic Games/UE_5.5/Engine/Binaries/Win64/UnrealEditor.exe",
+  "project_path": "H:/Card Game/CardGame/CardGame/BoundToTheCards.uproject",
+  "map_name": "H:/Card Game/CardGame/CardGame/Content/Maps/Monastery/Monastery.umap",
+  "autorunner_path": "H:/Card Game/CardGame/CardGame/Saved/GPUCrashFinder/auto_runner.py",
+  "click_pos": [
+    1954,
+    140
+  ],
+  "console_pos": [
+    422,
+    1375
+  ],
+  "initial_delay": 35,
+  "autorunner_delay": 8,
+  "post_reload_delay": 5,
+  "log_check_interval": 2,
+  "cpu_freeze_threshold": 40,
+  "max_bake_time_without_freeze": 6,
+  "map_reload_wait": 5,
+  "cpu_check_interval": 1,
+  "freeze_threshold": 10,
+  "no_freeze_timeout": 10,
+  "freeze_timeout": 8,
+  "reload_wait": 5,
+  "map_reload_timeout": 30,
+  "log_check_delay": 10,
+  "reload_wait_timeout": 20,
+  "map_asset_path": "H:/Card Game/CardGame/CardGame/Content/Maps/Monastery/Monastery.umap",
+  "map_reload_delay": 10,
+  "ue_map_asset_path": "H:/Card Game/CardGame/CardGame/Content/Maps/Monastery/Monastery.umap",
+  "reload_instead_of_restart": true,
+  "map_load_delay": 30,
+  "lightmass_delay": 10
+}

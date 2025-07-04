@@ -1,0 +1,57 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# PyInstaller build artifacts
+build/
+dist/
+*.spec
+
+# Installer logs
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Unit test / coverage
+htmlcov/
+.tox/
+.nox/
+.coverage
+.cache
+.pytest_cache/
+nosetests.xml
+coverage.xml
+*.cover
+*.py,cover
+
+# Environment files
+.env
+.venv
+env/
+venv/
+ENV/
+
+# Mac and Linux files
+.DS_Store
+Thumbs.db
+
+# Windows Icon file
+*.ico
+
+# VSCode and other IDE configs
+.vscode/
+.idea/
+*.sublime-workspace
+*.sublime-project
+
+# Logs and temp
+*.log
+*.tmp
+*.bak
+*.swp
+
+# Unreal project logs and intermediates
+Saved/
+Intermediate/
+
+
