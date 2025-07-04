@@ -1,4 +1,7 @@
 ![Watchdog UI Preview](images/watchdog_ui.png)
+
+[![Watch the tutorial](https://img.youtube.com/vi/VIDEO_ID/hqdefault.jpg)](https://www.youtube.com/watch?v=SL1CY5qfMGU)
+
 # GPU Lightmass Watchdog
 
 A toolkit for automating and crash-isolating Unreal Engine lightmass builds using chunk isolation and CPU monitoring.
