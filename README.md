@@ -1,6 +1,6 @@
 ![Watchdog UI Preview](images/watchdog_ui.png)
 
-
+Click the image to watch the full tutorial on YouTube.
 [![Watch the tutorial](https://img.youtube.com/vi/SL1CY5qfMGU/hqdefault.jpg)](https://www.youtube.com/watch?v=SL1CY5qfMGU)
 
 
